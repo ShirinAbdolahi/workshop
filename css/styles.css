@@ -13,6 +13,6 @@ html {
     height: 100%;
 }
 .search-key{
-    font-family:'BYekan';
+    font-family:'BYekan' !important;
     text-align: right;
 }
